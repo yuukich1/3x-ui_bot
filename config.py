@@ -10,10 +10,10 @@ class Settings(BaseSettings):
     TELEGRAM_TOKEN: str = '6074700070:AAEUZGmYTKzSGEul-tfvecYnSFdnxsDCVuA'
     
     # 3x-UI Panel
-    THREEX_HOST: str = '46.226.165.208'
+    THREEX_HOST: str = '127.0.0.1'
     THREEX_PORT: int = 8080
-    THREEX_USERNAME: str = 'Ky0WV7sjpF'
-    THREEX_PASSWORD: str = '70gkfXDh0M'
+    THREEX_USERNAME: str = 'admin'
+    THREEX_PASSWORD: str = 'admin'
     THREEX_HASH_PANEL: str = '0RhWnlULBur17Smznu'
     THREEX_SPX: str = '2F'
     
