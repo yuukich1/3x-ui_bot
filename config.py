@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     """Application settings."""
     
     # Telegram Bot
-    TELEGRAM_TOKEN: str = '6074700070:AAEUZGmYTKzSGEul-tfvecYnSFdnxsDCVuA'
+    TELEGRAM_TOKEN: str = ''
     
     # 3x-UI Panel
     THREEX_HOST: str = '127.0.0.1'
