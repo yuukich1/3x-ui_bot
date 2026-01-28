@@ -14,7 +14,7 @@ class Settings(BaseSettings):
     THREEX_PORT: int = 8080
     THREEX_USERNAME: str = 'admin'
     THREEX_PASSWORD: str = 'admin'
-    THREEX_HASH_PANEL: str = '0RhWnlULBur17Smznu'
+    THREEX_HASH_PANEL: str = 'HASH'
     THREEX_SPX: str = '2F'
     
     # Database
